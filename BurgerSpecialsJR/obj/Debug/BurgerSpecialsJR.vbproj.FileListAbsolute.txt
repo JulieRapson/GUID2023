@@ -1,0 +1,12 @@
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\bin\Debug\BurgerSpecialsJR.exe.config
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\bin\Debug\BurgerSpecialsJR.exe
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\bin\Debug\BurgerSpecialsJR.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\bin\Debug\BurgerSpecialsJR.xml
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.vbproj.AssemblyReference.cache
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.frmBurgers.resources
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.Resources.resources
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.vbproj.GenerateResource.cache
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.vbproj.CoreCompileInputs.cache
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.exe
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.xml
+C:\Users\myram\OneDrive\classes\GUID2023\BurgerSpecialsJR\obj\Debug\BurgerSpecialsJR.pdb
